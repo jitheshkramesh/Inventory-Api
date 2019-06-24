@@ -1,0 +1,14 @@
+G:\Work File\DempApiApp\DempApiApp\bin\Debug\netcoreapp2.2\DempApiApp.deps.json
+G:\Work File\DempApiApp\DempApiApp\bin\Debug\netcoreapp2.2\DempApiApp.runtimeconfig.json
+G:\Work File\DempApiApp\DempApiApp\bin\Debug\netcoreapp2.2\DempApiApp.runtimeconfig.dev.json
+G:\Work File\DempApiApp\DempApiApp\bin\Debug\netcoreapp2.2\DempApiApp.dll
+G:\Work File\DempApiApp\DempApiApp\bin\Debug\netcoreapp2.2\DempApiApp.pdb
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.csproj.CoreCompileInputs.cache
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.RazorAssemblyInfo.cache
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.RazorAssemblyInfo.cs
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.AssemblyInfoInputs.cache
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.AssemblyInfo.cs
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.RazorTargetAssemblyInfo.cache
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.dll
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.pdb
+G:\Work File\DempApiApp\DempApiApp\obj\Debug\netcoreapp2.2\DempApiApp.csprojAssemblyReference.cache
